@@ -19,8 +19,8 @@ export default function MuqodimahSection() {
         <p>( الشعراۤء/ : 196) ﴾وَاِنَّهٗ لَفِيْ زُبُرِ الْاَوَّلِيْنَ ﴿ </p>
         <br />
         <p>
-          "Dan sesungguhnya Al Qur&apos;an itu benar-benar (tersebut) dalam
-          kitab-kitab orang terdahulu"
+          &quot;Dan sesungguhnya Al Qur&apos;an itu benar-benar (tersebut) dalam
+          kitab-kitab orang terdahulu&quot;
         </p>
         <br />
         <p>
@@ -35,9 +35,9 @@ export default function MuqodimahSection() {
           <br />
         </p>
         <p>
-          "Dan sesungguhnya Al Qur&apos;an itu benar-benar adalah suatu
+          &quot;Dan sesungguhnya Al Qur&apos;an itu benar-benar adalah suatu
           kemuliaan besar bagimu dan bagi kaummy dan kelak kamu akan diminta
-          pertanggung jawaban"
+          pertanggung jawaban&quot;
         </p>
         <br />
         <p>
