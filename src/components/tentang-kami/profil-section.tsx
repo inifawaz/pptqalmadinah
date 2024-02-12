@@ -11,22 +11,22 @@ export default function ProfileSection() {
           </h1>
         </div>
         <p>
-          Pondok Pesantren Tahfidzul Qur'an Al Madinah atau disebut juga dengan
-          PPTQ Al Madinah adalah salah satu unit pendidikan oleh Yayasan Al
-          Madinah Surakarta pada tahun 1998 yang berlokasi di Desa Grenjeng,
+          Pondok Pesantren Tahfidzul Qur&apos;an Al Madinah atau disebut juga
+          dengan PPTQ Al Madinah adalah salah satu unit pendidikan oleh Yayasan
+          Al Madinah Surakarta pada tahun 1998 yang berlokasi di Desa Grenjeng,
           Kenteng, Nogosari, Boyolali, Jawa Tengag, kemudia di akhir tahun 2018
           berpindah lokasi di Desa Jetis, Sawahan, Ngemplak, Boyolali, Jawa
           Tengah, sampai saat ini
         </p>
         <br />
         <p>
-          Pada awalnya Pondok Pesantren Tahfidzul Qur'an Al Madinah menggunakan
-          sistem pesantren tradisional (belum diatur dengan sistem baku),
-          seiring perkembangan zaman, pendidika di masa ini termasuk pesantren
-          tahfidzul Qur'an secara tidak langsung dituntut untuk melakukan
-          penyesuaian terhadap perkembangan tersebut, maka di tahun 2022
-          mulaialh diterapkan sistem kepesantrenan yang menggabungkan antara
-          sistem tradisional dengan modern
+          Pada awalnya Pondok Pesantren Tahfidzul Qur&apos;an Al Madinah
+          menggunakan sistem pesantren tradisional (belum diatur dengan sistem
+          baku), seiring perkembangan zaman, pendidika di masa ini termasuk
+          pesantren tahfidzul Qur&apos;an secara tidak langsung dituntut untuk
+          melakukan penyesuaian terhadap perkembangan tersebut, maka di tahun
+          2022 mulaialh diterapkan sistem kepesantrenan yang menggabungkan
+          antara sistem tradisional dengan modern
         </p>
         <br />
         <p>

@@ -11,21 +11,22 @@ export default function MuqodimahSection() {
           </h1>
         </div>
         <p>
-          Al Qur'anul Karim adalah kalam Rabb alam semesta, di dalamnya terdapat
-          cahaya dan petunjuk dalam kehidupan menuju Allah, yang telah
-          diberitakan oleh kitab-kitab sebelumnya, Allah Ta'ala berfirman
+          Al Qur&apos;anul Karim adalah kalam Rabb alam semesta, di dalamnya
+          terdapat cahaya dan petunjuk dalam kehidupan menuju Allah, yang telah
+          diberitakan oleh kitab-kitab sebelumnya, Allah Ta&apos;ala berfirman
         </p>
         <br />
         <p>( الشعراۤء/ : 196) ﴾وَاِنَّهٗ لَفِيْ زُبُرِ الْاَوَّلِيْنَ ﴿ </p>
         <br />
         <p>
-          "Dan sesungguhnya Al Qur'an itu benar-benar (tersebut) dalam
+          "Dan sesungguhnya Al Qur&apos;an itu benar-benar (tersebut) dalam
           kitab-kitab orang terdahulu"
         </p>
         <br />
         <p>
-          Al Qur'an adalah suatu kemulian besar untuk Nabi Muhammad shallallahu
-          'alaihi wa sallam dan umatnya, Allah Ta'ala berfirman:
+          Al Qur&apos;an adalah suatu kemulian besar untuk Nabi Muhammad
+          shallallahu &apos;alaihi wa sallam dan umatnya, Allah Ta&apos;ala
+          berfirman:
         </p>
         <br />
         <p>
@@ -34,16 +35,16 @@ export default function MuqodimahSection() {
           <br />
         </p>
         <p>
-          "Dan sesungguhnya Al Qur'an itu benar-benar adalah suatu kemuliaan
-          besar bagimu dan bagi kaummy dan kelak kamu akan diminta pertanggung
-          jawaban"
+          "Dan sesungguhnya Al Qur&apos;an itu benar-benar adalah suatu
+          kemuliaan besar bagimu dan bagi kaummy dan kelak kamu akan diminta
+          pertanggung jawaban"
         </p>
         <br />
         <p>
-          Allah Ta'ala menjadikan Al Qur'an mudah untuk dijadikan dzikir
-          (pengingat) diantara bentuknya adalah mudah dalam menghafalnya (karena
-          mudah lafad-lafadnya), mudah dalam memahaminya, mentadaburinya dan
-          mengamalkanya, maka padanya terdapat hasungan untuk memperbanyak
+          Allah Ta&apos;ala menjadikan Al Qur&apos;an mudah untuk dijadikan
+          dzikir (pengingat) diantara bentuknya adalah mudah dalam menghafalnya
+          (karena mudah lafad-lafadnya), mudah dalam memahaminya, mentadaburinya
+          dan mengamalkanya, maka padanya terdapat hasungan untuk memperbanyak
           membaca, menghafal, dan mempelajarinya
         </p>
       </div>

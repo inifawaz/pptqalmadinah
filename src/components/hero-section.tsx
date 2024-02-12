@@ -7,7 +7,7 @@ export default function HeroSection() {
       <div className="px-4 max-w-7xl w-full mx-auto md:grid grid-cols-2 gap-8">
         <div>
           <h1 className="text-3xl text-white font-semibold mb-4">
-            Membangun Generasi Pengemban Al Qur'an Yang Rabbani
+            Membangun Generasi Pengemban Al Qur&apos;an Yang Rabbani
           </h1>
           <p className="mb-8">
             Kami berkomitmen mendidik putra putri anda untuk mepelajari,

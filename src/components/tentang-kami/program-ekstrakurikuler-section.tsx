@@ -58,7 +58,7 @@ export default function ProgramEkstrakurikulerSection() {
             <p>
               Karena manfaatnya yang sangat banyak, terlebih olahraga satu ini
               termasuk sunnah yang dianjurkan oleh Nabi Muhammad shallallahu
-              ‘alaihi wassalam maka pesantren memasukkannya dalam program
+              &apos;alaihi wassalam maka pesantren memasukkannya dalam program
               ektrakurikuler.
             </p>
             <ul className="list-decimal ml-5">
@@ -79,8 +79,8 @@ export default function ProgramEkstrakurikulerSection() {
           <div className="mb-4">
             <p>
               Tidak diragukan bahwa panahan adalah olahraga yang disunnahkan
-              oleh Nabi Muhammad shallallahu ‘alaihi wassalam, karena hal itu
-              pesantren membuat program ektrakurikuler panahan yang wajib
+              oleh Nabi Muhammad shallallahu &apos;alaihi wassalam, karena hal
+              itu pesantren membuat program ektrakurikuler panahan yang wajib
               diikuti santri sebanyak 10 pertemuan untuk menguasai teknik dasar
               panahan, materi dan latihan lanjutan diperuntukkan bagi santri
               yang memiliki minat dan bakat dalam ekskul ini.

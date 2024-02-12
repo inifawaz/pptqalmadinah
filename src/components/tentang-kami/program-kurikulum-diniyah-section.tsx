@@ -32,10 +32,10 @@ export default function ProgramKurikulumDiniyyahSection() {
             <h5>Muqarrar Aqidah :</h5>
             <ul className="list-decimal ml-5">
               <li>Fadhlul Islam</li>
-              <li>Al Qawaidul Arba’</li>
+              <li>Al Qawaidul Arba&apos;</li>
               <li>Makna Kalimat Tauhid</li>
               <li>Makna Thaghut</li>
-              <li>Sittatu Mawadhi’ Minash Shirah</li>
+              <li>Sittatu Mawadhi&apos; Minash Shirah</li>
               <li>Al Ushulus Sittah</li>
               <li>Tsalatsatul Ushul</li>
               <li>Kitab At Tauhid</li>
@@ -61,9 +61,9 @@ export default function ProgramKurikulumDiniyyahSection() {
           <div className="mb-4">
             <h5>Muqarrar Ilmu Bahasa Arab :</h5>
             <ul className="list-decimal ml-5">
-              <li>Al Madkhal Ilaa Ilmin Nahwi wash Sharfi wal Imla’</li>
+              <li>Al Madkhal Ilaa Ilmin Nahwi wash Sharfi wal Imla&apos;</li>
               <li>Bidayatul Mubtadi Fi Ilmi Sharf</li>
-              <li>Bidayatul Mubtadi Fi Ilmi Imla’</li>
+              <li>Bidayatul Mubtadi Fi Ilmi Imla&apos;</li>
               <li>Bidayatul Mubtadi Fi Ilmi Nahwu</li>
             </ul>
           </div>
@@ -75,31 +75,31 @@ export default function ProgramKurikulumDiniyyahSection() {
           <p className="mb-4">
             Adalah program pembelajaran mata pelajaran tambahan, yang meliputi
             mata pelajaran yaitu Tafsir, Hadits, Akhlak, dan Fiqih, program ini
-            dilaksanakan antara ba’da maghrib dan isya’.
+            dilaksanakan antara ba&apos;da maghrib dan isya&apos;.
           </p>
 
           <div className="mb-4">
             <h5>Muqarrar Tafsir :</h5>
             <ul className="list-decimal ml-5">
-              <li>Al Mukhtashar Fii Tafsiril Qur’anil Karim</li>
+              <li>Al Mukhtashar Fii Tafsiril Qur&apos;anil Karim</li>
             </ul>
           </div>
           <div className="mb-4">
             <h5>Muqarrar Hadits :</h5>
             <ul className="list-decimal ml-5">
-              <li>Jawami’ul Akhbar</li>
+              <li>Jawami&apos;ul Akhbar</li>
             </ul>
           </div>
           <div className="mb-4">
             <h5>Muqarrar Akhlak :</h5>
             <ul className="list-decimal ml-5">
-              <li>At Tibyan Fii Adaab Hamalatil Qur’an</li>
+              <li>At Tibyan Fii Adaab Hamalatil Qur&apos;an</li>
             </ul>
           </div>
           <div className="mb-4">
             <h5>Muqarrar Fiqih :</h5>
             <ul className="list-decimal ml-5">
-              <li>Matan Abi Syuja’</li>
+              <li>Matan Abi Syuja&apos;</li>
             </ul>
           </div>
         </div>
@@ -161,8 +161,8 @@ export default function ProgramKurikulumDiniyyahSection() {
           <ul className="list-decimal ml-5">
             <li>Al Adzkar wal Adab</li>
             <li>Tuhfathul Athfaal</li>
-            <li>Al Arba’un An Nawawiyyah</li>
-            <li>Al Qawaidul Arba’</li>
+            <li>Al Arba&apos;un An Nawawiyyah</li>
+            <li>Al Qawaidul Arba&apos;</li>
             <li>Tsalatsatul Ushul</li>
           </ul>
         </div>

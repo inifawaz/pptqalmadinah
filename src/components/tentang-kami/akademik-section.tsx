@@ -16,7 +16,7 @@ export default function AkademikSection() {
               Masa Belajar 3 Tahun
             </h5>
             <p>
-              Waktu belajar di Pondok Pesantren Tahfidzul Qur’an Al Madinah
+              Waktu belajar di Pondok Pesantren Tahfidzul Qur&apos;an Al Madinah
               ditempuh selama 3 tahun pembelajaran.
             </p>
             <p></p>
@@ -24,9 +24,9 @@ export default function AkademikSection() {
           <div>
             <h5 className="text-white text-lg font-medium">Sistem Kelas</h5>
             <p>
-              Disetiap tahun ajaran Pondok Pesantren Tahfidzul Qur’an Al Madinah
-              membagi santri dalam 3 kelas yang berbeda sesuai dengan tahun
-              masuknya.*
+              Disetiap tahun ajaran Pondok Pesantren Tahfidzul Qur&apos;an Al
+              Madinah membagi santri dalam 3 kelas yang berbeda sesuai dengan
+              tahun masuknya.*
             </p>
             <p></p>
           </div>
@@ -37,11 +37,13 @@ export default function AkademikSection() {
             <p className="mb-2">
               Untuk mengukur,mengetahui, menilai dan mengevaluasi hafalan,
               ketrampilan dan pengetahuan yangtelah diperoleh santri maka Pondok
-              Pesantren Tahfidzul Qur’an Al Madinah menetapkanbeberapa bentuk
-              ujian yang harus dilalui oleh setiap santri :
+              Pesantren Tahfidzul Qur&apos;an Al Madinah menetapkanbeberapa
+              bentuk ujian yang harus dilalui oleh setiap santri :
             </p>
             <div className="mb-4">
-              <h5 className="font-medium text-white">1. Hafalan Al Qur’an</h5>
+              <h5 className="font-medium text-white">
+                1. Hafalan Al Qur&apos;an
+              </h5>
               <ol className="list-disc ml-10">
                 <li>a. Ujian Pekanan</li>
                 <li>b. Ujian Kenaikan Juz</li>
@@ -99,12 +101,12 @@ export default function AkademikSection() {
             <p className="mb-2">
               Standar kelulusan adalah standar minimal yang harus dicapai
               peserta didik untuk dinyatakan sebagai peserta didik yang lulus
-              dari Pondok Pesantren Tahfidzul Qur’an Al Madinah, setidaknya
+              dari Pondok Pesantren Tahfidzul Qur&apos;an Al Madinah, setidaknya
               memenuhi kriteria berikut :
             </p>
             <div className="mb-4">
               <ol className="list-decimal ml-5">
-                <li>Lulus Ujian Akhir Hafalan Al Qur’an minimal 18 Juz</li>
+                <li>Lulus Ujian Akhir Hafalan Al Qur&apos;an minimal 18 Juz</li>
                 <li>Lulus Ujian Akhir Pelajaran Diniyyah</li>
                 <li>Lulus Ujian Akhir Hafalan Matan</li>
                 <li>Lulus Ujian Akhir Praktik Ibadah</li>
@@ -118,13 +120,13 @@ export default function AkademikSection() {
             </h5>
             <p className="mb-2">
               Peserta didik (santri) yang dinyatakan lulus dari Pondok Pesantren
-              Tahfidzul Qur’an Al Madinah akan mendapatkan :
+              Tahfidzul Qur&apos;an Al Madinah akan mendapatkan :
             </p>
             <div className="mb-4">
               <ol className="list-decimal ml-5">
                 <li>Ijazah Pesantren</li>
                 <li>Ijazah Kesetaraan SMP/SMA (paket)</li>
-                <li>Sertifikat Hafalan Al Qur’an & Sanadnya</li>
+                <li>Sertifikat Hafalan Al Qur&apos;an & Sanadnya</li>
                 <li>Sertifikat Hafalan Matan & Sanadnya</li>
                 <li>Sertifikat Selesai Belajar</li>
                 <li>Surat Keterangan Hasil Ujian (SKHU) Pesantren</li>

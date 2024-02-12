@@ -55,8 +55,8 @@ export default function PendaftaranSantriBaru() {
             <div>
               <h5 className="font-medium text-white">Tes Seleksi :</h5>
               <ul className="list-decimal ml-5">
-                <li>Kemampuan membaca Al Qur'an</li>
-                <li>Menghafal 1 halaman Al Qur'an dalam waktu 60 menit</li>
+                <li>Kemampuan membaca Al Qur&apos;an</li>
+                <li>Menghafal 1 halaman Al Qur&apos;an dalam waktu 60 menit</li>
                 <li>Materi diniyyah dasar</li>
                 <li>Tulisan Arab & Latin</li>
                 <li>Tes IQ</li>

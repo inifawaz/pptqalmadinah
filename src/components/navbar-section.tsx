@@ -95,6 +95,7 @@ export default function NavbarSection() {
             <div className="absolute z-10 right-0 invisible shadow-2xl group-hover:visible flex flex-col w-80">
               {tentangKamiMenu.map((e, i) => (
                 <Link
+                  key={i}
                   className="px-4 py-3 hover:bg-emerald-800 transition-colors  bg-emerald-950"
                   href={e.href}
                 >
@@ -111,6 +112,7 @@ export default function NavbarSection() {
             <div className="absolute z-10 right-0 invisible shadow-2xl group-hover:visible flex flex-col w-80">
               {informasiMenu.map((e, i) => (
                 <Link
+                  key={i}
                   className="px-4 py-3 hover:bg-emerald-800 transition-colors  bg-emerald-950"
                   href={e.href}
                 >

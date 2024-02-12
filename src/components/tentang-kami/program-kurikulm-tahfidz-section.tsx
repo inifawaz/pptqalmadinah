@@ -12,8 +12,8 @@ export default function ProgramKurikulumTahfidzSection() {
         </div>
         <ul className="list-decimal ml-5 mb-4">
           <li>Tamhidiy (pra-hafalan)</li>
-          <li>Tahsin Qira'ah (Takmil & Itqan)</li>
-          <li>Tahfidzul Qur'an 30 Juz Bersanad</li>
+          <li>Tahsin Qira&apos;ah (Takmil & Itqan)</li>
+          <li>Tahfidzul Qur&apos;an 30 Juz Bersanad</li>
         </ul>
         <div className="mb-4">
           <h5 className="text-lg font-medium text-white">
@@ -50,7 +50,7 @@ export default function ProgramKurikulumTahfidzSection() {
         </div>
         <div className="mb-4">
           <h5 className="text-lg font-medium text-white">
-            Tahsin Qira'ah (Takmil & Itqan)
+            Tahsin Qira&apos;ah (Takmil & Itqan)
           </h5>
           <p>
             Adalah program perbaikan bacaan Al-Qur’an tingkat pertengahan dan
@@ -59,7 +59,7 @@ export default function ProgramKurikulumTahfidzSection() {
         </div>
         <div>
           <h5 className="text-lg font-medium text-white">
-            Tahfidzul Qur'an 30 Juz Bersanad
+            Tahfidzul Qur&apos;an 30 Juz Bersanad
           </h5>
           <p className="mb-4">
             Adalah program utama pesantren, yang menargetkan santri hafal 30 juz
@@ -105,13 +105,13 @@ export default function ProgramKurikulumTahfidzSection() {
             <h5>Menerapkan pilar-pilar tahfidzul quran :</h5>
             <ul className="list-decimal ml-5">
               <li>Talqin Fardi</li>
-              <li>Talqin Jama'i</li>
+              <li>Talqin Jama&apos;i</li>
               <li>Hifdz Jadid</li>
               <li>Rabt & Ziyadah</li>
-              <li>Muraja'ah Shughra</li>
-              <li>Muraja'ah Kubra</li>
-              <li>Muraja'ah bit Tanawub</li>
-              <li>Muraja'ah bil Munaqasyah</li>
+              <li>Muraja&apos;ah Shughra</li>
+              <li>Muraja&apos;ah Kubra</li>
+              <li>Muraja&apos;ah bit Tanawub</li>
+              <li>Muraja&apos;ah bil Munaqasyah</li>
             </ul>
           </div>
           <div className="mb-4">

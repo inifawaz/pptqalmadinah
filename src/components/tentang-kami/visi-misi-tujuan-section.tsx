@@ -38,7 +38,7 @@ export default function VisiMisiTujuanSection() {
         <div className="space-y-4">
           <div>
             <h5 className="text-white text-lg font-medium">Visi</h5>
-            <p>Membangun generasi pengemban Al Qur'an yang Rabbani</p>
+            <p>Membangun generasi pengemban Al Qur&apos;an yang Rabbani</p>
           </div>
           <div>
             <h5 className="text-white text-lg font-medium">Misi</h5>

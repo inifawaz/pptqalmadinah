@@ -37,7 +37,10 @@ export default function KegiatanSantri() {
           </div>
           <div className="grid md:grid-cols-3 gap-6">
             {content.map((e, i) => (
-              <div className="shadow-2xl bg-emerald-900 overflow-hidden">
+              <div
+                key={i}
+                className="shadow-2xl bg-emerald-900 overflow-hidden"
+              >
                 <div className=" aspect-square relative">
                   {/* <Image
                   src={"/puasa.jpg"}

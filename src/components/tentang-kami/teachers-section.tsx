@@ -16,21 +16,25 @@ export default function TeachersSection() {
           <div className="mb-8">
             <h5 className="text-xl font-medium  text-white">Tenaga Ahli</h5>
             <p className="mb-2">
-              Kami memiliki beberapa tenaga ahli dalam bidang ilmu Al Qur'an
-              yang telah diakui keilmuanya di dalam mapund di luar negri
+              Kami memiliki beberapa tenaga ahli dalam bidang ilmu Al
+              Qur&apos;an yang telah diakui keilmuanya di dalam mapund di luar
+              negri
             </p>
             <div className="grid md:grid-cols-3 gap-6">
               <div>
                 <h6 className="flex items-center gap-1">
                   <HiUser className="text-yellow-600" />
-                  <span className="">Ustadz Muhammad Nai'm, Lc., M.Pd.</span>
+                  <span className="">
+                    Ustadz Muhammad Nai&apos;m, Lc., M.Pd.
+                  </span>
                 </h6>
                 <ul className="list-disc ml-10">
                   <li>
-                    Murid Syaikh Ubaidullah bin 'Atha' Al Afghaniy rahimahulloh,
-                    Ahli Qira'ah terkemuka di kota Madinah KSA
+                    Murid Syaikh Ubaidullah bin &apos;Atha&apos; Al Afghaniy
+                    rahimahulloh, Ahli Qira&apos;ah terkemuka di kota Madinah
+                    KSA
                   </li>
-                  <li>Juri musabaqah Qur'an nasional</li>
+                  <li>Juri musabaqah Qur&apos;an nasional</li>
                 </ul>
               </div>
               <div>
@@ -40,10 +44,10 @@ export default function TeachersSection() {
                 </h6>
                 <ul className="list-disc ml-10">
                   <li>
-                    Murid Syaikh Muqri' Muhammad bin Ahmad bin Ibrahim Al
+                    Murid Syaikh Muqri&apos; Muhammad bin Ahmad bin Ibrahim Al
                     Marsyadiy Al Azhariy hafidzahulloh
                   </li>
-                  <li>Murid beberapa muqri' di kota Madinah KSA</li>
+                  <li>Murid beberapa muqri&apos; di kota Madinah KSA</li>
                 </ul>
               </div>
             </div>
@@ -89,9 +93,9 @@ export default function TeachersSection() {
               Tenaga pengampu Hafalan
             </h5>
             <p className="mb-2">
-              Pengampu hafalan Al Qur'an adalah para huffadz yang memiliki
-              pengalaman dalam menghafal Al Qur'an, kebanyakan mereka adalah
-              para alumni dari pondok pesantren Al Madinah
+              Pengampu hafalan Al Qur&apos;an adalah para huffadz yang memiliki
+              pengalaman dalam menghafal Al Qur&apos;an, kebanyakan mereka
+              adalah para alumni dari pondok pesantren Al Madinah
             </p>
             <div className="grid md:grid-cols-3 gap-x-6 gap-y-4">
               <h6 className="flex items-center gap-1">

@@ -11,7 +11,7 @@ export default function ProgramKejarPaketSection() {
           </h1>
         </div>
         <p>
-          Agar santri Pondok Pesantren Tahfidzul Qur’an Al Madinah memiliki
+          Agar santri Pondok Pesantren Tahfidzul Qur&apos;an Al Madinah memiliki
           ijazah yang setaradengan SMP/SMA maka kami wajibkan seluruh santri
           untuk mengikuti program ini,program ini bekerja sama dengan PKBM Al
           Madinah yang masih satu yayasan dengan pesantren yaitu Yayasan Al
