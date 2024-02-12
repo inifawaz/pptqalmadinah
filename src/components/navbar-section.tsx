@@ -64,12 +64,13 @@ export default function NavbarSection() {
     },
   ];
 
-  const elRef = useRef<HTMLElement>(null);
+  const elRef = useRef<HTMLDivElement>(null);
 
   const showNavResponsive = () => {
     // const el = document.getElementById("navbar-responsive");
-
-    console.log(elRef?.current?.classList?.toggle("hidden"));
+    if (elRef?.current) {
+      elRef.current.classList.toggle("hidden");
+    }
   };
 
   return (
