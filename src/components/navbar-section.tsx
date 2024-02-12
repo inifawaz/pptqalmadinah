@@ -64,7 +64,7 @@ export default function NavbarSection() {
     },
   ];
 
-  const elRef = useRef(null);
+  const elRef = useRef<HTMLElement>(null);
 
   const showNavResponsive = () => {
     // const el = document.getElementById("navbar-responsive");
